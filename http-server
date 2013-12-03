@@ -40,7 +40,7 @@ char *host = 0;
 char *port = 0;
 char *back = 0;
 char *dirroot = 0;
-char *logdir = 0;
+char *logdir = 0;     
 unsigned char daemon_y_n = 0;
 FILE *logfp;
 
